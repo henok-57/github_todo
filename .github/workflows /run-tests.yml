@@ -27,7 +27,7 @@ jobs:
       - name: Build and Push Docker Image
         uses: mr-smithers-excellent/docker-build-push@v4
         with:
-          image: parteekbhatia954/test # Replace with your Docker Hub username/repository
+          image: hena7/test
           registry: docker.io
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          username: ${{ secrets.henok.gelan@wsu.edu }}
+          password: ${{ secrets.Skrillexpony@7 }}
